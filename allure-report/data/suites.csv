@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jan 01 17:17:26 CET 2024","Mon Jan 01 17:17:27 CET 2024","128","","Check counter app","","","","should be able to have ""10"" as a default counter value",""
+"passed","Mon Jan 01 17:17:26 CET 2024","Mon Jan 01 17:17:26 CET 2024","109","","Check counter app","","","","should be able to have title",""
+"passed","Mon Jan 01 17:17:27 CET 2024","Mon Jan 01 17:17:27 CET 2024","271","","Check counter app","","","","should be able to increment total counter value by clicking ""+1"" button",""
+"passed","Mon Jan 01 17:17:27 CET 2024","Mon Jan 01 17:17:27 CET 2024","218","","Check counter app","","","","should be able to have ""10"" total counter value by clicking ""Reset"" button",""
+"passed","Mon Jan 01 17:17:27 CET 2024","Mon Jan 01 17:17:29 CET 2024","1341","","Check counter app","","","","should be able to decrement total counter value by clicking ""+1"" button",""
